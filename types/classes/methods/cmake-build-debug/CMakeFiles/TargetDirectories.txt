@@ -1,0 +1,3 @@
+/Users/silvester.stephens/Cpluspluscrashcourse/types/classes/methods/cmake-build-debug/CMakeFiles/methods.dir
+/Users/silvester.stephens/Cpluspluscrashcourse/types/classes/methods/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silvester.stephens/Cpluspluscrashcourse/types/classes/methods/cmake-build-debug/CMakeFiles/rebuild_cache.dir

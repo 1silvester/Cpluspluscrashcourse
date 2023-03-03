@@ -1,0 +1,3 @@
+/Users/silvester.stephens/Cpluspluscrashcourse/types/enum/cmake-build-debug/CMakeFiles/enum.dir
+/Users/silvester.stephens/Cpluspluscrashcourse/types/enum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silvester.stephens/Cpluspluscrashcourse/types/enum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

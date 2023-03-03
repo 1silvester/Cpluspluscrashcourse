@@ -1,0 +1,3 @@
+/Users/silvester.stephens/Cpluspluscrashcourse/referencetypes/pointersandarrays/handlingdecay/cmake-build-debug/CMakeFiles/handlingdecay.dir
+/Users/silvester.stephens/Cpluspluscrashcourse/referencetypes/pointersandarrays/handlingdecay/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/silvester.stephens/Cpluspluscrashcourse/referencetypes/pointersandarrays/handlingdecay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
